@@ -11,6 +11,8 @@ Unity 2017.2
 
 ![hololens](https://user-images.githubusercontent.com/22214754/203853384-501cdb51-c61d-4c30-99d9-25dfe8dd14ba.png)  
 
+![nasasuits](https://user-images.githubusercontent.com/22214754/203854558-6bda365d-5db3-4a05-a15a-e9f15c36db77.png)  
+
 # Important links  
 - [Design Challenege](https://microgravityuniversity.jsc.nasa.gov/docs/FY18%20NASA%20SUITS%20Design%20Challenge%20Description%20Revised_11.28.17.pdf)  
 - [Getting Started with Microsoft Hololens](https://developer.microsoft.com/en-us/windows/mixed-reality/holograms_101)  
