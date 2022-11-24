@@ -1,0 +1,17 @@
+{
+    "dataSetId": "5a8edafa7eb95cd5d2855905",
+    "batterAmpHigh": "5",
+    "batteryVdcLow": "14",
+    "suitPressLow": "1",
+    "sopOn": "false",
+    "suitPressEmerg": "false",
+    "suitPressHigh": "6",
+    "o2HighUse": "2",
+    "sopPressLow": "600",
+    "fanFail": "false",
+    "noVentFlow": "false",
+    "co2High": "400",
+    "vehiclePowerPresent": "true",
+    "h2oOff": "false",
+    "o2Off": "false"
+}
